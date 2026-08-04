@@ -1,7 +1,7 @@
 # Ava • Intelligent Healthcare Workflow Assistant
 
 <p align="center">
-  <img src="assets/avatar.png" width="180">
+  <img src="assets/ava-avatar.png" width="180">
 </p>
 
 <h3 align="center">
@@ -477,7 +477,7 @@ Automatically created:
 Once booking information becomes available, the assistant creates a tentative calendar event.
 
 <p align="center">
-<img src="screenshots/05-google-calendar.png" width="900">
+<img src="screenshots/06-google-calendar.png" width="900">
 </p>
 
 Benefits include:
@@ -493,7 +493,7 @@ Benefits include:
 Clinic staff receive immediate email notifications after a successful appointment request.
 
 <p align="center">
-<img src="screenshots/06-gmail-notification.png" width="900">
+<img src="screenshots/05-gmail-notification.png" width="900">
 </p>
 
 The generated email contains:
@@ -512,8 +512,6 @@ The generated email contains:
 Each completed booking is also appended to a Google Sheet for lightweight operational reporting.
 
 The implementation has been completed within the workflow architecture.
-
-A screenshot is intentionally omitted because the integration was still being finalized during repository documentation.
 
 The logging structure records:
 
@@ -722,8 +720,8 @@ ava-healthcare-assistant/
 │   ├── 02-chat-interface.png
 │   ├── 03-conversation.png
 │   ├── 04-salesforce-lead.png
-│   ├── 05-google-calendar.png
-│   └── 06-gmail-notification.png
+│   ├── 05-gmail-notification.png
+│   └── 06-google-calendar.png
 │
 └── docs/
     ├── architecture.md
